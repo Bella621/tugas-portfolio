@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/belinda-porto/static/css/main.bf538fe7.css",
+    "main.js": "/belinda-porto/static/js/main.cd77afa3.js",
+    "static/media/HeroImage.jpg": "/belinda-porto/static/media/HeroImage.e30b888962280f695dc5.jpg",
+    "index.html": "/belinda-porto/index.html",
+    "main.bf538fe7.css.map": "/belinda-porto/static/css/main.bf538fe7.css.map",
+    "main.cd77afa3.js.map": "/belinda-porto/static/js/main.cd77afa3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.cd77afa3.js"
+  ]
+}
